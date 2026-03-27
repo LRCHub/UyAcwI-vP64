@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "D(evil) feat. yama（feat. yama）",
+  "base_artist": "春野",
+  "createdAt": "2026-03-27T01:30:36.285470Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "D(evil) feat. yama",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_D(evil)_feat._yama_春野.txt"
+    }
+  ]
+}
